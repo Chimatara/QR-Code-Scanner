@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Chimatara/QR-Code-Scanner)
-- Live Site URL: [Add live site URL here](https://chimatara-code-scanner.netlify.app/)
+- Solution URL: [My github repo link](https://github.com/Chimatara/QR-Code-Scanner)
+- Live Site URL: [Check my live site](https://chimatara-code-scanner.netlify.app/)
 
 
 
