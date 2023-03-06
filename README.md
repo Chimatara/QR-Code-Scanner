@@ -20,12 +20,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./Screenshots/Screenshot%202023-03-05%20at%2017-17-36%20Frontend%20Mentor%20QR%20Code%20task.pngScreenshots)
 
-![](./Screenshots/Screenshot%202023-03-05%20at%2017-16-58%20Frontend%20Mentor%20QR%20Code%20task.png)
 
 ### Links
 
 - Solution URL: [](https://github.com/Chimatara/QR-Code-Scanner)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [](https://chimatara-code-scanner.netlify.app/)
 
 
 
@@ -52,7 +51,7 @@ I re-learnt how to center a div after using it for a long time
 
 ## Author
 
-- Website - [Chimatara-code-scanner](https://www.your-site.com)
+- Website - [Chimatara-code-scanner](https://chimatara-code-scanner.netlify.app/)
 - Frontend Mentor - [@Chimatara](https://www.frontendmentor.io/profile/Chimatara)
 - Twitter - [@taras_collectn](https://twitter.com/taras_collectn)
 
