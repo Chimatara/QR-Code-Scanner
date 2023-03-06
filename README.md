@@ -21,10 +21,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./Screenshots/Screenshot%202023-03-05%20at%2017-17-36%20Frontend%20Mentor%20QR%20Code%20task.pngScreenshots)
 
 
+
 ### Links
 
-- Solution URL: [](https://github.com/Chimatara/QR-Code-Scanner)
-- Live Site URL: [](https://chimatara-code-scanner.netlify.app/)
+- Solution URL: [Add solution URL here](https://github.com/Chimatara/QR-Code-Scanner)
+- Live Site URL: [Add live site URL here](https://chimatara-code-scanner.netlify.app/)
 
 
 
