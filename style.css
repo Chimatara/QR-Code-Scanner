@@ -8,13 +8,20 @@ body {
     font-family: 'Outfit', sans-serif;
 }
 
+.section-one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+
 .container {
     display: flex;
-    width: 1440px;
+    width: 95%;
     background-color:  hsl(220, 15%, 55%);
     box-shadow: 2px 7px 15px rgb(163, 163, 163);
-    height: 600px;
-    margin: 4% auto;
+    height: 90vh;
     justify-content: center;
     align-items: center;
 
